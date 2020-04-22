@@ -1,22 +1,14 @@
-Author Name : Chong Chern Dong
-
-Created Date: 23-Apr-2020, 1:55am (SGT)
-
-Description: This document explain how to setup Debian 9.9 EC instance usiong Alibaba Cloud.
+Author Name : Chong Chern Dong  
+Created Date: 23-Apr-2020, 1:55am (SGT)  
+Description: This document explain how to setup Debian 9.9 EC instance usiong Alibaba Cloud.  
 
 
+**CHANGES**
 
-CHANGES
--
-
-Number #1
-
-Datetime: 2020-Apr-23 01:55 (SGT)
-
-Author: Chong Chern Dong
-
-Short Description: Created this document.
-
+Number #1  
+Datetime: 2020-Apr-23 01:55 (SGT)  
+Author: Chong Chern Dong  
+Short Description: Created this document.  
 
 
 The following steps explain how to setup Debian 9.9 EC instance using Alibaba Cloud.
